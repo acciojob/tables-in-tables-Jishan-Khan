@@ -1,8 +1,9 @@
-table{
+.nested_tables {
 	text-align: center;
+	width: 100%;
 }
 
-#black{
+#html {
 	background-color:black;
 	color:white;
 }
